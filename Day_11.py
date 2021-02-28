@@ -3,6 +3,7 @@
 # 兔子，假如兔子都不死，问每个月的兔子总数为多少？
 # 1:1    2:1    3:2    4:3    5:5    6:8
 n = int(input())
+
 def fibonaici(n):
     if n == 1 or n == 2:
         return 1
