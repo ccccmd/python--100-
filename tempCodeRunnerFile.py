@@ -1,4 +1,2 @@
-item = a.split(" ")
-# ls = [eval(x) for x in item]
-
-# print(ls)
+for i in range(num / 2 + 2, num + 1):
+#     print(mul * i)
